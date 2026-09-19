@@ -1,0 +1,19 @@
+# Raw and generated data
+data/raw/
+data/staged/
+*.parquet
+*.csv
+*.xlsx
+*.xls
+*.duckdb
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Secrets
+.env
+
+# OS / editor
+.DS_Store
