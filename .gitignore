@@ -3,6 +3,7 @@ data/raw/
 data/staged/
 *.parquet
 *.csv
+!config/stock_universe.csv
 *.xlsx
 *.xls
 *.duckdb

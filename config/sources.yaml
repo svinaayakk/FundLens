@@ -1,0 +1,52 @@
+sources:
+  stock_prices:
+    primary: NSE daily market-data archive
+    fallback: yfinance
+    source_file_type: security_wise_daily_csv
+    raw_columns:
+      - Symbol
+      - Series
+      - Date
+      - Prev Close
+      - Open Price
+      - High Price
+      - Low Price
+      - Last Price
+      - Close Price
+      - Average Price
+      - Total Traded Quantity
+      - Turnover ₹
+      - No. of Trades
+      - Deliverable Qty
+      - '% Dly Qt to Traded Qty'
+    field_mapping:
+      Symbol: symbol
+      Series: series
+      Date: trade_date
+      Prev Close: previous_close
+      Open Price: open_price
+      High Price: high_price
+      Low Price: low_price
+      Last Price: last_price
+      Close Price: close_price
+      Average Price: vwap
+      Total Traded Quantity: volume
+      Turnover ₹: turnover
+      No. of Trades: trades
+      Deliverable Qty: delivery_quantity
+      '% Dly Qt to Traded Qty': delivery_pct
+    normalisation:
+      encoding: utf-8-sig
+      trim_header_whitespace: true
+      date_format: '%d-%b-%Y'
+      remove_indian_number_separators:
+        - Total Traded Quantity
+        - Turnover ₹
+        - No. of Trades
+        - Deliverable Qty
+  index_prices:
+    indices:
+      - Nifty 50
+      - Nifty 100
+      - Nifty Midcap 150
+      - Nifty Smallcap 250

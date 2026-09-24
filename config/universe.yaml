@@ -1,0 +1,29 @@
+analysis_period:
+  frequency: daily
+  lookback_months: 12
+  end_date: null  # Set to the latest completed trading date during ingestion.
+
+universe_snapshot:
+  selection_date: 2026-09-24
+  classification_basis: official_index_constituent_snapshot
+  classification_policy: static_for_the_full_analysis_window
+
+universe:
+  selection_method: curated_stratified_sample_from_official_index_constituents
+  stocks_per_cap_tier: 30
+  cap_tiers:
+    large_cap:
+      source_index: Nifty 100
+      benchmark: Nifty 100
+    mid_cap:
+      source_index: Nifty Midcap 150
+      benchmark: Nifty Midcap 150
+    small_cap:
+      source_index: Nifty Smallcap 250
+      benchmark: Nifty Smallcap 250
+  overall_market_benchmark: Nifty 50
+
+risk_parameters:
+  annual_trading_days: 252
+  risk_free_rate_annual: 0.0
+  moving_average_days: 50

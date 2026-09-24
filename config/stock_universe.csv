@@ -1,0 +1,91 @@
+symbol,company,sector,cap_category,benchmark,selection_date
+HDFCBANK,HDFC Bank Ltd.,Financial Services,Large Cap,Nifty 100,2026-09-24
+ICICIBANK,ICICI Bank Ltd.,Financial Services,Large Cap,Nifty 100,2026-09-24
+RELIANCE,Reliance Industries Ltd.,Oil Gas & Consumable Fuels,Large Cap,Nifty 100,2026-09-24
+BHARTIARTL,Bharti Airtel Ltd.,Telecommunication,Large Cap,Nifty 100,2026-09-24
+LT,Larsen & Toubro Ltd.,Construction,Large Cap,Nifty 100,2026-09-24
+SBIN,State Bank of India,Financial Services,Large Cap,Nifty 100,2026-09-24
+INFY,Infosys Ltd.,Information Technology,Large Cap,Nifty 100,2026-09-24
+AXISBANK,Axis Bank Ltd.,Financial Services,Large Cap,Nifty 100,2026-09-24
+KOTAKBANK,Kotak Mahindra Bank Ltd.,Financial Services,Large Cap,Nifty 100,2026-09-24
+M&M,Mahindra & Mahindra Ltd.,Automobile and Auto Components,Large Cap,Nifty 100,2026-09-24
+ITC,ITC Ltd.,Fast Moving Consumer Goods,Large Cap,Nifty 100,2026-09-24
+TCS,Tata Consultancy Services Ltd.,Information Technology,Large Cap,Nifty 100,2026-09-24
+BAJFINANCE,Bajaj Finance Ltd.,Financial Services,Large Cap,Nifty 100,2026-09-24
+HINDUNILVR,Hindustan Unilever Ltd.,Fast Moving Consumer Goods,Large Cap,Nifty 100,2026-09-24
+MARUTI,Maruti Suzuki India Ltd.,Automobile and Auto Components,Large Cap,Nifty 100,2026-09-24
+SUNPHARMA,Sun Pharmaceutical Industries Ltd.,Healthcare,Large Cap,Nifty 100,2026-09-24
+NTPC,NTPC Ltd.,Power,Large Cap,Nifty 100,2026-09-24
+TITAN,Titan Company Ltd.,Consumer Durables,Large Cap,Nifty 100,2026-09-24
+ETERNAL,Eternal Ltd.,Consumer Services,Large Cap,Nifty 100,2026-09-24
+TATASTEEL,Tata Steel Ltd.,Metals & Mining,Large Cap,Nifty 100,2026-09-24
+BEL,Bharat Electronics Ltd.,Capital Goods,Large Cap,Nifty 100,2026-09-24
+SHRIRAMFIN,Shriram Finance Ltd.,Financial Services,Large Cap,Nifty 100,2026-09-24
+ULTRACEMCO,UltraTech Cement Ltd.,Construction Materials,Large Cap,Nifty 100,2026-09-24
+HCLTECH,HCL Technologies Ltd.,Information Technology,Large Cap,Nifty 100,2026-09-24
+POWERGRID,Power Grid Corporation of India Ltd.,Power,Large Cap,Nifty 100,2026-09-24
+HINDALCO,Hindalco Industries Ltd.,Metals & Mining,Large Cap,Nifty 100,2026-09-24
+JSWSTEEL,JSW Steel Ltd.,Metals & Mining,Large Cap,Nifty 100,2026-09-24
+ABB,ABB India Ltd.,Capital Goods,Large Cap,Nifty 100,2026-09-24
+ADANIENT,Adani Enterprises Ltd.,Metals & Mining,Large Cap,Nifty 100,2026-09-24
+ADANIPORTS,Adani Ports and Special Economic Zone Ltd.,Services,Large Cap,Nifty 100,2026-09-24
+BSE,BSE Ltd.,Financial Services,Mid Cap,Nifty Midcap 150,2026-09-24
+FEDERALBNK,Federal Bank Ltd.,Financial Services,Mid Cap,Nifty Midcap 150,2026-09-24
+SUZLON,Suzlon Energy Ltd.,Capital Goods,Mid Cap,Nifty Midcap 150,2026-09-24
+HEROMOTOCO,Hero MotoCorp Ltd.,Automobile and Auto Components,Mid Cap,Nifty Midcap 150,2026-09-24
+INDUSINDBK,IndusInd Bank Ltd.,Financial Services,Mid Cap,Nifty Midcap 150,2026-09-24
+AUBANK,AU Small Finance Bank Ltd.,Financial Services,Mid Cap,Nifty Midcap 150,2026-09-24
+POLICYBZR,PB Fintech Ltd.,Financial Services,Mid Cap,Nifty Midcap 150,2026-09-24
+LUPIN,Lupin Ltd.,Healthcare,Mid Cap,Nifty Midcap 150,2026-09-24
+GVT&D,GE Vernova T&D India Ltd.,Capital Goods,Mid Cap,Nifty Midcap 150,2026-09-24
+ASHOKLEY,Ashok Leyland Ltd.,Capital Goods,Mid Cap,Nifty Midcap 150,2026-09-24
+COFORGE,Coforge Ltd.,Information Technology,Mid Cap,Nifty Midcap 150,2026-09-24
+IDFCFIRSTB,IDFC First Bank Ltd.,Financial Services,Mid Cap,Nifty Midcap 150,2026-09-24
+INDUSTOWER,Indus Towers Ltd.,Telecommunication,Mid Cap,Nifty Midcap 150,2026-09-24
+DIXON,Dixon Technologies (India) Ltd.,Consumer Durables,Mid Cap,Nifty Midcap 150,2026-09-24
+PERSISTENT,Persistent Systems Ltd.,Information Technology,Mid Cap,Nifty Midcap 150,2026-09-24
+APLAPOLLO,APL Apollo Tubes Ltd.,Capital Goods,Mid Cap,Nifty Midcap 150,2026-09-24
+TIINDIA,Tube Investments of India Ltd.,Automobile and Auto Components,Mid Cap,Nifty Midcap 150,2026-09-24
+SUPREMEIND,Supreme Industries Ltd.,Capital Goods,Mid Cap,Nifty Midcap 150,2026-09-24
+BHARATFORG,Bharat Forge Ltd.,Automobile and Auto Components,Mid Cap,Nifty Midcap 150,2026-09-24
+INDIANB,Indian Bank,Financial Services,Mid Cap,Nifty Midcap 150,2026-09-24
+OFSS,Oracle Financial Services Software Ltd.,Information Technology,Mid Cap,Nifty Midcap 150,2026-09-24
+FORTIS,Fortis Healthcare Ltd.,Healthcare,Mid Cap,Nifty Midcap 150,2026-09-24
+KPITTECH,KPIT Technologies Ltd.,Information Technology,Mid Cap,Nifty Midcap 150,2026-09-24
+GODREJPROP,Godrej Properties Ltd.,Realty,Mid Cap,Nifty Midcap 150,2026-09-24
+IRCTC,Indian Railway Catering And Tourism Corporation Ltd.,Consumer Services,Mid Cap,Nifty Midcap 150,2026-09-24
+MEDANTA,Global Health Ltd.,Healthcare,Mid Cap,Nifty Midcap 150,2026-09-24
+NMDC,NMDC Ltd.,Metals & Mining,Mid Cap,Nifty Midcap 150,2026-09-24
+WAAREEENER,Waaree Energies Ltd.,Capital Goods,Mid Cap,Nifty Midcap 150,2026-09-24
+360ONE,360 ONE WAM Ltd.,Financial Services,Mid Cap,Nifty Midcap 150,2026-09-24
+AIAENG,AIA Engineering Ltd.,Capital Goods,Mid Cap,Nifty Midcap 150,2026-09-24
+CUB,City Union Bank Ltd.,Financial Services,Small Cap,Nifty Smallcap 250,2026-09-24
+CDSL,Central Depository Services (India) Ltd.,Financial Services,Small Cap,Nifty Smallcap 250,2026-09-24
+KARURVYSYA,Karur Vysya Bank Ltd.,Financial Services,Small Cap,Nifty Smallcap 250,2026-09-24
+RBLBANK,RBL Bank Ltd.,Financial Services,Small Cap,Nifty Smallcap 250,2026-09-24
+ASTERDM,Aster DM Quality Care Ltd.,Healthcare,Small Cap,Nifty Smallcap 250,2026-09-24
+SONACOMS,Sona BLW Precision Forgings Ltd.,Automobile and Auto Components,Small Cap,Nifty Smallcap 250,2026-09-24
+NAVINFLUOR,Navin Fluorine International Ltd.,Chemicals,Small Cap,Nifty Smallcap 250,2026-09-24
+DELHIVERY,Delhivery Ltd.,Services,Small Cap,Nifty Smallcap 250,2026-09-24
+PNBHOUSING,PNB Housing Finance Ltd.,Financial Services,Small Cap,Nifty Smallcap 250,2026-09-24
+ANGELONE,Angel One Ltd.,Financial Services,Small Cap,Nifty Smallcap 250,2026-09-24
+CASTROLIND,Castrol India Ltd.,Oil Gas & Consumable Fuels,Small Cap,Nifty Smallcap 250,2026-09-24
+CESC,CESC Ltd.,Power,Small Cap,Nifty Smallcap 250,2026-09-24
+FINCABLES,Finolex Cables Ltd.,Capital Goods,Small Cap,Nifty Smallcap 250,2026-09-24
+PVRINOX,PVR INOX Ltd.,Media Entertainment & Publication,Small Cap,Nifty Smallcap 250,2026-09-24
+CREDITACC,CreditAccess Grameen Ltd.,Financial Services,Small Cap,Nifty Smallcap 250,2026-09-24
+FIVESTAR,Five-Star Business Finance Ltd.,Financial Services,Small Cap,Nifty Smallcap 250,2026-09-24
+KAYNES,Kaynes Technology India Ltd.,Capital Goods,Small Cap,Nifty Smallcap 250,2026-09-24
+NBCC,NBCC (India) Ltd.,Construction,Small Cap,Nifty Smallcap 250,2026-09-24
+NCC,NCC Ltd.,Construction,Small Cap,Nifty Smallcap 250,2026-09-24
+INDIAMART,Indiamart Intermesh Ltd.,Consumer Services,Small Cap,Nifty Smallcap 250,2026-09-24
+CAPLIPOINT,Caplin Point Laboratories Ltd.,Healthcare,Small Cap,Nifty Smallcap 250,2026-09-24
+PGEL,PG Electroplast Ltd.,Consumer Durables,Small Cap,Nifty Smallcap 250,2026-09-24
+BRIGADE,Brigade Enterprises Ltd.,Realty,Small Cap,Nifty Smallcap 250,2026-09-24
+CAMS,Computer Age Management Services Ltd.,Financial Services,Small Cap,Nifty Smallcap 250,2026-09-24
+INOXWIND,Inox Wind Ltd.,Capital Goods,Small Cap,Nifty Smallcap 250,2026-09-24
+KAJARIACER,Kajaria Ceramics Ltd.,Consumer Durables,Small Cap,Nifty Smallcap 250,2026-09-24
+CROMPTON,Crompton Greaves Consumer Electricals Ltd.,Consumer Durables,Small Cap,Nifty Smallcap 250,2026-09-24
+CARBORUNIV,Carborundum Universal Ltd.,Capital Goods,Small Cap,Nifty Smallcap 250,2026-09-24
+CIEINDIA,CIE Automotive India Ltd.,Automobile and Auto Components,Small Cap,Nifty Smallcap 250,2026-09-24
+MAPMYINDIA,C.E. Info Systems Ltd.,Information Technology,Small Cap,Nifty Smallcap 250,2026-09-24
