@@ -76,6 +76,30 @@ a non-comparable price discontinuity. ABB India (`ABB`) replaces TMPV in the
 Large Cap sample. ABB has 248 complete `EQ` observations from 2025-09-24 to
 2026-09-24 with no duplicate dates or missing critical liquidity fields.
 
+## Universe amendment: final Mid Cap replacements
+
+The original candidate list included Cummins India, HDFC Asset Management,
+Indian Hotels, Max Healthcare, Muthoot Finance, and Solar Industries. Those
+stocks had moved to Nifty 100 by the official constituent snapshot and were
+not retained in the Mid Cap sample. The approved Nifty Midcap 150 replacements
+are 3M India, ACC, AIA Engineering, Ajanta Pharma, Alkem Laboratories, and
+Apollo Tyres.
+
+`AIAENG` was already present in the interim file. To apply the final selection
+without changing the 30-stock Mid Cap count, the interim symbols `IRCTC`,
+`MEDANTA`, `NMDC`, `WAAREEENER`, and `360ONE` were replaced with `3MINDIA`,
+`ACC`, `AJANTPHARM`, `ALKEM`, and `APOLLOTYRE`. All six final additions have
+248 complete `EQ` observations for 2025-09-24 to 2026-09-24.
+
+## Universe amendment: final Small Cap list
+
+The Small Cap panel is a final user-approved list of 30 unique Nifty Smallcap
+250 symbols. Each selected symbol has a complete NSE `EQ` export containing
+248 observations from 2025-09-24 to 2026-09-24, with no missing critical
+price or liquidity fields. The definitive list is maintained in
+`config/stock_universe.csv` rather than inferred from earlier replacement
+tables.
+
 ## Exit criteria
 
 - A versioned 90-stock universe exists.
