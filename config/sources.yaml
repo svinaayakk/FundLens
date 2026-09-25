@@ -45,8 +45,30 @@ sources:
         - No. of Trades
         - Deliverable Qty
   index_prices:
+    primary: NSE Indices historical data export
+    source_file_type: index_daily_history_csv
     indices:
       - Nifty 50
       - Nifty 100
       - Nifty Midcap 150
       - Nifty Smallcap 250
+    raw_columns:
+      - Date
+      - Open
+      - High
+      - Low
+      - Close
+      - Shares Traded
+      - Turnover (₹ Cr)
+    field_mapping:
+      Date: trade_date
+      Open: open_index_value
+      High: high_index_value
+      Low: low_index_value
+      Close: close_index_value
+      Shares Traded: shares_traded
+      Turnover (₹ Cr): turnover_crore
+    normalisation:
+      encoding: utf-8-sig
+      trim_header_whitespace: true
+      date_format: '%d-%b-%Y'

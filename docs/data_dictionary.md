@@ -36,3 +36,7 @@
 | `beta` | Sensitivity of stock returns to its benchmark returns. |
 | `alpha` | Regression intercept annualised from daily excess returns. |
 | `avg_daily_turnover` | Mean daily turnover over the selected analysis window. |
+| `downside_volatility` | Annualised standard deviation using only negative daily returns. |
+| `sharpe_ratio` | Annualised return per unit of total volatility; v1 uses an explicit 0% annual risk-free-rate scenario. |
+| `amihud_illiquidity_x1e6` | Mean absolute daily return divided by turnover, scaled by one million; higher values indicate lower trading liquidity. |
+| `pct_above_50d_ma` | Share of sampled stocks trading above their 50-day moving average, calculated per cap tier and day. |
